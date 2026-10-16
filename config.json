@@ -1,0 +1,29 @@
+{
+  "area": "Orange County, California",
+  "reference_cities": ["Irvine", "Anaheim", "Santa Ana", "Costa Mesa", "Huntington Beach", "Fullerton"],
+  "categories": {
+    "salad": "a green salad topped with chicken (grilled, crispy, etc.)",
+    "sandwich": "a chicken salad sandwich (chopped chicken mixed with mayo or dressing, on bread or a croissant)"
+  },
+  "restaurants": [
+    "Chick-fil-A",
+    "Wendy's",
+    "Panera Bread",
+    "Sweetgreen",
+    "Chipotle",
+    "CAVA",
+    "El Pollo Loco",
+    "Rubio's Coastal Grill",
+    "Wahoo's Fish Taco",
+    "The Habit Burger Grill",
+    "Corner Bakery",
+    "Mendocino Farms",
+    "Tender Greens",
+    "Urban Plates",
+    "Lemonade",
+    "Jason's Deli",
+    "Chicken Salad Chick"
+  ],
+  "discover_more": true,
+  "max_web_searches": 40
+}
